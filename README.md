@@ -44,7 +44,7 @@
 [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)<br><br><br>
 
 <h2>Connect with me</h2>
-<a href="https://roadmap.sh"><img align="right" src="https://roadmap.sh/card/wide/658111f75145316d25252934?variant=light&roadmaps=java%2Cfull-stack%2Cvue%2Cfrontend" alt="roadmap.sh"/></a>
+<a href="https://roadmap.sh"><img align="right" src="https://roadmap.sh/card/wide/658111f75145316d25252934?variant=dark&roadmaps=java%2Cfull-stack%2Cvue%2Cfrontend" alt="roadmap.sh"/></a>
 <a href="https://dev.to/neil-urk12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="neil-urk12" height="30" width="40" /></a>  
 <a href="https://linkedin.com/in/neil vallecer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="neil vallecer" height="30" width="40" /></a>  
 <a href="https://fb.com/neil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="neil" height="30" width="40" /></a>  
