@@ -1,7 +1,7 @@
 <img src="https://komarev.com/ghpvc/?username=neil-urk12&label=Profile%20views&color=0e75b6&style=flat" alt="neil-urk12" /><h1 align="center">Hi 👋, I'm Neil</h1>  
 <h4 align="center">A passionate Computer Science student from Philippines and aspiring Software Engineer.</h4>    
-<h2 align="left">💻Tech Stacks and Tools</h2>  
-<h3>Main Stack</h3><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=neil-urk12&show_icons=true&locale=en&layout=compact" alt="neil-urk12" />
+<h2 align="left">💻Tech Stacks and Tools</h2> <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=neil-urk12&show_icons=true&locale=en&layout=compact" alt="neil-urk12" />
+<h3>Main Stack</h3>
 
 [![Nuxt](https://img.shields.io/badge/Nuxt-22D3EE?style=for-the-badge&logo=nuxt.js&logoColor=white)](https://nuxtjs.org/)
 [![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)](https://vuejs.org/)
@@ -28,12 +28,12 @@
 [![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://palletsprojects.com/p/flask/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 [![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)](https://www.chartjs.org/)
-[![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/)<br>
+[![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/) <br>
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/) 
 [![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)](https://mariadb.org/)
 [![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io/)
-[![Dexie.js](https://img.shields.io/badge/Dexie.js-F1543F?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjggMTI4Ij48cGF0aCBmaWxsPSIjZmZmIiBkPSJNNjQgMTYuOTYyYTI0LjI1NiAyNC4yNTYgMCAwIDAgLTI0LjI1NiAyNC4yNTZWMjguNzJhMjQuMjU2IDI0LjI1NiAwIDAgMCAyNC4yNTYgMjQuMjU1IDI0LjI1NiAyNC4yNTYgMCAwIDAgMjQuMjU1LTI0LjI1NXYtNy41MThhMjQuMjU2IDI0LjI1NiAwIDAgMC0yNC4yNTUtMjQuMjU2em0wIDYzLjI2NGEyNC4yNTYgMjQuMjU2IDAgMCAwLTI0LjI1NiAyNC4yNTV2LTcuNTE3YTI0LjI1NiAyNC4yNTYgMCAwIDAgMjQuMjU2IDI0LjI1NiAyNC4yNTYgMjQuMjU2IDAgMCAwIDI0LjI1NS0yNC4yNTZ2Ny41MThhMjQuMjU2IDI0LjI1NiAwIDAgMC0yNC4yNTUgMjQuMjU1eiIvPjwvc3ZnPg==&logoColor=white)](https://dexie.org/)  <!-- Custom logo for Dexie -->
+[![Dexie.js](https://img.shields.io/badge/Dexie.js-F1543F?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjggMTI4Ij48cGF0aCBmaWxsPSIjZmZmIiBkPSJNNjQgMTYuOTYyYTI0LjI1NiAyNC4yNTYgMCAwIDAgLTI0LjI1NiAyNC4yNTZWMjguNzJhMjQuMjU2IDI0LjI1NiAwIDAgMCAyNC4yNTYgMjQuMjU1IDI0LjI1NiAyNC4yNTYgMCAwIDAgMjQuMjU1LTI0LjI1NXYtNy41MThhMjQuMjU2IDI0LjI1NiAwIDAgMC0yNC4yNTUtMjQuMjU2em0wIDYzLjI2NGEyNC4yNTYgMjQuMjU2IDAgMCAwLTI0LjI1NiAyNC4yNTV2LTcuNTE3YTI0LjI1NiAyNC4yNTYgMCAwIDAgMjQuMjU2IDI0LjI1NiAyNC4yNTYgMjQuMjU2IDAgMCAwIDI0LjI1NS0yNC4yNTZ2Ny41MThhMjQuMjU2IDI0LjI1NiAwIDAgMC0yNC4yNTUgMjQuMjU1eiIvPjwvc3ZnPg==&logoColor=white)](https://dexie.org/)  
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)](https://firebase.google.com/)
 [![Appwrite](https://img.shields.io/badge/Appwrite-FD3751?style=for-the-badge&logo=appwrite&logoColor=white)](https://appwrite.io/)
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=neil-urk12&show_icons=true&locale=en" alt="neil-urk12" />
