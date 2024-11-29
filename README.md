@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Neil</h1>  
 <h4 align="center">A passionate Computer Science student from Philippines and aspiring Software Engineer.</h4>    
-<h2 align="left">💻Tech Stacks and Tools</h2> <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=neil-urk12&show_icons=true&locale=en&layout=compact&theme=radical" alt="neil-urk12" /><img src="https://komarev.com/ghpvc/?username=neil-urk12&label=Profile%20views&color=0e75b6&style=flat" alt="neil-urk12" />
+<h2 align="left">💻Tech Stacks and Tools</h2> <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neil-urk12&theme=radical&show_icons=true&hide_border=true&layout=compact" alt="neil-urk12" /><img src="https://komarev.com/ghpvc/?username=neil-urk12&label=Profile%20views&color=0e75b6&style=flat" alt="neil-urk12" />
 <h3>Main Stack</h3>
 
 [![Nuxt](https://img.shields.io/badge/Nuxt-22D3EE?style=for-the-badge&logo=nuxt.js&logoColor=white)](https://nuxtjs.org/)
@@ -34,7 +34,7 @@
 [![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)](https://mariadb.org/)
 [![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io/)
 [![Dexie.js](https://img.shields.io/badge/Dexie.js-F1543F?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjggMTI4Ij48cGF0aCBmaWxsPSIjZmZmIiBkPSJNNjQgMTYuOTYyYTI0LjI1NiAyNC4yNTYgMCAwIDAgLTI0LjI1NiAyNC4yNTZWMjguNzJhMjQuMjU2IDI0LjI1NiAwIDAgMCAyNC4yNTYgMjQuMjU1IDI0LjI1NiAyNC4yNTYgMCAwIDAgMjQuMjU1LTI0LjI1NXYtNy41MThhMjQuMjU2IDI0LjI1NiAwIDAgMC0yNC4yNTUtMjQuMjU2em0wIDYzLjI2NGEyNC4yNTYgMjQuMjU2IDAgMCAwLTI0LjI1NiAyNC4yNTV2LTcuNTE3YTI0LjI1NiAyNC4yNTYgMCAwIDAgMjQuMjU2IDI0LjI1NiAyNC4yNTYgMjQuMjU2IDAgMCAwIDI0LjI1NS0yNC4yNTZ2Ny41MThhMjQuMjU2IDI0LjI1NiAwIDAgMC0yNC4yNTUgMjQuMjU1eiIvPjwvc3ZnPg==&logoColor=white)](https://dexie.org/) [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)](https://firebase.google.com/)[![Appwrite](https://img.shields.io/badge/Appwrite-FD3751?style=for-the-badge&logo=appwrite&logoColor=white)](https://appwrite.io/)<br>
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=neil-urk12&show_icons=true&theme=radical" alt="neil-urk12" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Neil-urk12&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="neil-urk12" />
 <h3>Tools and Platforms</h3>
 
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
@@ -49,6 +49,7 @@
 <a href="https://linkedin.com/in/neil vallecer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="neil vallecer" height="30" width="40" /></a>  
 <a href="https://fb.com/neil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="neil" height="30" width="40" /></a>  
 <a href="https://www.hackerrank.com/neilvallecer12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="neilvallecer12" height="30" width="40" /></a>  
+
 </p>  
 <h3>📬 Contact Me</h3>
 <p><strong>Email : </strong>Neilvallecer12@gmail.com</p>
