@@ -33,14 +33,20 @@
 [![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)](https://mariadb.org/)
 [![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io/)
 [![Dexie.js](https://img.shields.io/badge/Dexie.js-F1543F?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjggMTI4Ij48cGF0aCBmaWxsPSIjZmZmIiBkPSJNNjQgMTYuOTYyYTI0LjI1NiAyNC4yNTYgMCAwIDAgLTI0LjI1NiAyNC4yNTZWMjguNzJhMjQuMjU2IDI0LjI1NiAwIDAgMCAyNC4yNTYgMjQuMjU1IDI0LjI1NiAyNC4yNTYgMCAwIDAgMjQuMjU1LTI0LjI1NXYtNy41MThhMjQuMjU2IDI0LjI1NiAwIDAgMC0yNC4yNTUtMjQuMjU2em0wIDYzLjI2NGEyNC4yNTYgMjQuMjU2IDAgMCAwLTI0LjI1NiAyNC4yNTV2LTcuNTE3YTI0LjI1NiAyNC4yNTYgMCAwIDAgMjQuMjU2IDI0LjI1NiAyNC4yNTYgMjQuMjU2IDAgMCAwIDI0LjI1NS0yNC4yNTZ2Ny41MThhMjQuMjU2IDI0LjI1NiAwIDAgMC0yNC4yNTUgMjQuMjU1eiIvPjwvc3ZnPg==&logoColor=white)](https://dexie.org/) [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)](https://firebase.google.com/)[![Appwrite](https://img.shields.io/badge/Appwrite-FD3751?style=for-the-badge&logo=appwrite&logoColor=white)](https://appwrite.io/)<br>
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Neil-urk12&theme=radical&show_icons=true&hide_border=true&count_private=truev" alt="neil-urk12" />
 <h3>Tools and Platforms</h3>
 
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
-[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)<br><br><br>
+[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)<br>
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Neil-urk12&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="neil-urk12" />
+<img align="right" src="https://streak-stats.demolab.com?user=Neil-urk12&theme=radical&hide_border=true" alt="neil-urk12" />
+<br><br>
+
+
+
 
 <h2>Connect with me</h2>
 <a href="https://roadmap.sh"><img align="right" src="https://roadmap.sh/card/wide/658111f75145316d25252934?variant=dark&roadmaps=java%2Cfull-stack%2Cvue%2Cfrontend" alt="roadmap.sh"/></a>
