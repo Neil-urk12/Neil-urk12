@@ -42,7 +42,7 @@
 [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)<br>
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Neil-urk12&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="neil-urk12" />
-<img align="right" src="https://streak-stats.demolab.com?user=Neil-urk12&theme=radical&hide_border=true" alt="neil-urk12" />
+<img align="left" src="https://streak-stats.demolab.com?user=Neil-urk12&theme=radical&hide_border=true" alt="neil-urk12" />
 <br><br>
 
 
