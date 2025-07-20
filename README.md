@@ -41,8 +41,8 @@
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)<br>
 
-<img align="right" width="400px" src="https://github-readme-stats.vercel.app/api?username=Neil-urk12&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="neil-urk12" />
-<img align="left" width="400px" src="https://streak-stats.demolab.com?user=Neil-urk12&theme=radical&hide_border=true" alt="neil-urk12" />
+<img align="right" width="380px" src="https://github-readme-stats.vercel.app/api?username=Neil-urk12&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="neil-urk12" />
+<img align="left" width="380px" src="https://streak-stats.demolab.com?user=Neil-urk12&theme=radical&hide_border=true" alt="neil-urk12" />
 <br><br>
 
 
