@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Neil</h1>  
-<h4 align="center">A passionate Computer Science student from Philippines and aspiring Software Engineer.<br><b>"CI/CD: </b>Cultivate Inspiration, Commit to Dreams."<br>- Me</h4>
+<h4 align="center">A passionate Computer Science student and aspiring Software Engineer.<br><b>"CI/CD: </b>Cultivate Inspiration, Commit to Dreams."<br>- Me</h4>
 <h2 align="left">💻Tech Stacks and Tools</h2> <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neil-urk12&theme=radical&show_icons=true&hide_border=true&layout=compact" alt="Neil-urk12's GitHub Stats" /><img src="https://komarev.com/ghpvc/?username=neil-urk12&label=Profile%20views&color=0e75b6&style=flat" alt="neil-urk12" />
 <h3>Main Stack</h3>
 
