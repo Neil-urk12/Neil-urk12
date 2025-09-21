@@ -3,17 +3,15 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=neil-urk12&label=Profile%20views&color=0e75b6&style=flat" alt="neil-urk12" />
-  &nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20Linux-8A2BE2?style=for-the-badge&labelColor=333333" alt="Platform"/>
 </div>
 
 <h2 align="left">💻Tech Stacks and Tools</h2>
-<div style="margin-bottom: 50px;">
-  <img align="left"
+<div style="margin-bottom: 50px;" align="center">
+  <img width="450px"
        src="https://streak-stats.demolab.com?user=Neil-urk12&theme=radical&hide_border=true"
        alt="GitHub streak for Neil-urk12" />
-
-  <img align="right"
+  <img  width="450px"
        src="https://github-readme-stats.vercel.app/api?username=Neil-urk12&theme=radical&show_icons=true&hide_border=true&count_private=true"
        alt="GitHub stats for Neil-urk12" />
 </div><br clear="all"> 
