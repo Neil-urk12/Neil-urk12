@@ -38,6 +38,7 @@
   <a href="https://docs.microsoft.com/en-us/ef/"><img src="https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=entity-framework&logoColor=white" alt="Entity Framework"/></a>
   <a href="https://hono.dev/"><img src="https://img.shields.io/badge/Hono-E36002?style=for-the-badge&logo=hono&logoColor=white" alt="Hono"/></a>
   <a href="https://neon.tech/"><img src="https://img.shields.io/badge/Neon-00E599?style=for-the-badge&logo=neon&logoColor=white" alt="Neon"/></a>
+  <a href="https://www.microsoft.com/en-us/sql-server"><img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server"/></a>
 </p>
 
 <br>
@@ -73,7 +74,6 @@
   <a href="https://dexie.org/"><img src="https://img.shields.io/badge/Dexie.js-F1543F?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjggMTI4Ij48cGF0aCBmaWxsPSIjZmZmIiBkPSJNNjQgMTYuOTYyYTI0LjI1NiAyNC4yNTYgMCAwIDAgLTI0LjI1NiAyNC4yNTZWMjguNzJhMjQuMjU2IDI0LjI1NiAwIDAgMCAyNC4yNTYgMjQuMjU1IDI0LjI1NiAyNC4yNTYgMCAwIDAgMjQuMjU1LTI0LjI1NXYtNy41MThhMjQuMjU2IDI0LjI1NiAwIDAgMC0yNC4yNTUtMjQuMjU2em0wIDYzLjI2NGEyNC4yNTYgMjQuMjU2IDAgMCAwLTI0LjI1NiAyNC4yNTV2LTcuNTE3YTI0LjI1NiAyNC4yNTYgMCAwIDAgMjQuMjU2IDI0LjI1NiAyNC4yNTYgMjQuMjU2IDAgMCAwIDI0LjI1NS0yNC4yNTZ2Ny41MThhMjQuMjU2IDI0LjI1NiAwIDAgMC0yNC4yNTUgMjQuMjU1eiIvPjwvc3ZnPg==&logoColor=white" alt="Dexie.js"/></a>
   <a href="https://firebase.google.com/"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase"/></a>
   <a href="https://appwrite.io/"><img src="https://img.shields.io/badge/Appwrite-FD3751?style=for-the-badge&logo=appwrite&logoColor=white" alt="Appwrite"/></a>
-  <a href="https://www.microsoft.com/en-us/sql-server"><img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server"/></a>
 </p>
 
 <h3 align="center">Others</h3>
