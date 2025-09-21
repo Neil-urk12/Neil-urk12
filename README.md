@@ -8,10 +8,10 @@
 
 <h2 align="left">💻Tech Stacks and Tools</h2>
 <div style="margin-bottom: 50px;" align="center">
-  <img width="450px"
+  <img width="380px"
        src="https://streak-stats.demolab.com?user=Neil-urk12&theme=radical&hide_border=true"
        alt="GitHub streak for Neil-urk12" />
-  <img  width="450px"
+  <img  width="380px"
        src="https://github-readme-stats.vercel.app/api?username=Neil-urk12&theme=radical&show_icons=true&hide_border=true&count_private=true"
        alt="GitHub stats for Neil-urk12" />
 </div><br clear="all"> 
