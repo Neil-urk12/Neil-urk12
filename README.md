@@ -104,5 +104,7 @@
 <a href="https://www.hackerrank.com/neilvallecer12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="neilvallecer12" height="30" width="40" /></a>
 <a href="https://www.codewars.com/users/Neil-urk12" target="blank"><img align="center" src="https://thecodebytes.com/wp-content/webpc-passthru.php?src=https://thecodebytes.com/wp-content/uploads/2021/10/codewars-logo-1.png&nocache=1" alt="CodeWars" height="40" width="40" /></a></h2>
 
+[![An image of @neilurk12's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/neilurk12)](https://holopin.io/@neilurk12)
+
 <!--<a href="https://roadmap.sh"><img align="right" src="https://roadmap.sh/card/wide/658111f75145316d25252934?variant=dark&roadmaps=java%2Cfull-stack%2Cvue%2Cfrontend" alt="roadmap.sh"/></a>-->
 
