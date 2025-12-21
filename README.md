@@ -27,7 +27,7 @@
 </p>
 
 <br>
-<h2 align="center">Current using for projects</h2>
+<h2 align="center">Current using for projects and Work</h2>
 <p align="center">
   <a href="https://vuejs.org/"><img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js"/></a>
   <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/></a>
