@@ -12,10 +12,10 @@
   </a>-->
 
   <div style="margin-bottom: 50px;" align="center">
-  <img width="380px"
+  <img width="350px"
        src="https://awesome-github-stats.azurewebsites.net/user-stats/Neil-urk12?cardType=level&theme=radical&fontFamily=&preferLogin=true"
        alt="GitHub streak for Neil-urk12" />
-  <img width="380px" height="230px"
+  <img width="350px" height="230px"
        src="https://githubcard.com/Neil-urk12.svg?d=SJsqkLLa"
        alt="GitHub stats for Neil-urk12" />
 </div><br clear="all">
