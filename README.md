@@ -6,14 +6,29 @@
   <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20Linux-8A2BE2?style=for-the-badge&labelColor=333333" alt="Platform"/>
 </div>
 
-<div style="margin-bottom: 50px;" align="center">
+
+  <!--<a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=radical&fontFamily=&preferLogin=true">
+    <img width="380px" alt="Neil-urk12's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Neil-urk12?cardType=level&theme=radical&fontFamily=&preferLogin=true" />
+  </a>-->
+
+  <div style="margin-bottom: 50px;" align="center">
+  <img width="380px"
+       src="https://awesome-github-stats.azurewebsites.net/user-stats/Neil-urk12?cardType=level&theme=radical&fontFamily=&preferLogin=true"
+       alt="GitHub streak for Neil-urk12" />
+  <img width="380px" height="230px"
+       src="https://githubcard.com/Neil-urk12.svg?d=SJsqkLLa"
+       alt="GitHub stats for Neil-urk12" />
+</div><br clear="all">
+
+  
+<!--<div style="margin-bottom: 50px;" align="center">
   <img width="380px"
        src="https://streak-stats.demolab.com?user=Neil-urk12&theme=radical&hide_border=true"
        alt="GitHub streak for Neil-urk12" />
   <img  width="380px"
        src="https://github-readme-stats.vercel.app/api?username=Neil-urk12&theme=radical&show_icons=true&hide_border=true&count_private=true"
        alt="GitHub stats for Neil-urk12" />
-</div><br clear="all"> 
+</div><br clear="all"> -->
 
 <br>
 <h2 align="center">Main Technologies</h2>
