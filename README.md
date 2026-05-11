@@ -128,11 +128,13 @@
 
 <br>
 
-<h2>Connect with me <a href="https://dev.to/neil-urk12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="neil-urk12" height="30" width="40" /></a>  
-<a href="https://linkedin.com/in/neil vallecer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="neil vallecer" height="30" width="40" /></a>  
-<a href="https://fb.com/neil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="neil" height="30" width="40" /></a>  
-<a href="https://www.hackerrank.com/neilvallecer12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="neilvallecer12" height="30" width="40" /></a>
-<a href="https://www.codewars.com/users/Neil-urk12" target="blank"><img align="center" src="https://thecodebytes.com/wp-content/webpc-passthru.php?src=https://thecodebytes.com/wp-content/uploads/2021/10/codewars-logo-1.png&nocache=1" alt="CodeWars" height="40" width="40" /></a></h2>
+## Connect with me
+
+[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/neil-urk12)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/neil%20vallecer)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/neil)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/neilvallecer12)
+[![CodeWars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white)](https://www.codewars.com/users/Neil-urk12)
 
 [![An image of @neilurk12's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/neilurk12)](https://holopin.io/@neilurk12)
 
