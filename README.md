@@ -16,7 +16,7 @@
          src="https://awesome-github-stats.azurewebsites.net/user-stats/Neil-urk12?cardType=level&theme=radical&fontFamily=&preferLogin=true"
          alt="GitHub streak for Neil-urk12" />
     <img width="340px"
-         src="https://githubcard.com/Neil-urk12.svg?d=SJsqkLLa"
+         src="https://githubcard.com/Neil-urk12.svg?d=UgVYItMO"
          alt="GitHub stats for Neil-urk12" />
   </div>
   <br clear="all">
