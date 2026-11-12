@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Neil</h1>
 
 <p align="center">
-  Software Developer & IT Intern @ Philippine IIno Corp · CS student · aspiring Cloud Engineer · Cebu, PH
+  Software Developer & IT Intern @ Philippine Iino Corp · CS student · aspiring Cloud Engineer · Cebu, PH
   <br>
   <i>"CI/CD: Cultivate Inspiration, Commit to Dreams."</i>
 </p>
